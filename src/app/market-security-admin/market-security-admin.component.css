@@ -1,0 +1,16 @@
+.msa-heading {
+background: #ce9ebb;                        /*	#be83b1;*/
+	color: #FFFFFF;
+	padding-top: .1em;
+	padding-left: 1em;
+	padding-bottom: .1em;
+}
+
+.msa-list {
+	padding: 1em;
+}
+
+.msa-list li {
+	padding: .2em;
+	font-weight: 500;
+}

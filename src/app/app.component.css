@@ -1,0 +1,17 @@
+
+
+.well {
+	background-color: #ffffff;
+	 border-radius: 0px;
+	padding: none !important;
+	
+	
+	
+}
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+}
+

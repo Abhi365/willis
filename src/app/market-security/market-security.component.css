@@ -1,0 +1,25 @@
+.btn-hard {
+	background: #91549e;
+	color: #ffffff;
+	border: 1px solid #702082;
+	padding: 1em, 5em, 1em, 5em;
+	padding-right: 2em;
+	padding-left: 2em;
+	border-radius: none;
+	font-weight: 500;
+}
+
+.btn-hard:active {
+	background-color: #702082;
+	color: #ffffff;
+	border-color: #702082
+}
+
+.sub-form {
+	padding-top: 2.5em;
+}
+
+.ms-text {
+font-weight:700;
+	color: #91549e
+}
